@@ -24,6 +24,8 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 🚀 About Me
 
 ```javascript
@@ -47,7 +49,15 @@ const inderjeet = {
 - 📈 Delivered features that boosted engagement **20–40%** across ad SDKs, video players & messaging systems
 - 🎓 Currently pursuing my B.Tech in Computer Science — full-time engineer, part-time student
 
+<details>
+<summary>💬 <b>Random Dev Quote</b> (click to reveal)</summary>
 <br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -74,6 +84,26 @@ const inderjeet = {
 </div>
 
 <br/>
+
+<details>
+<summary><b>📈 Proficiency Breakdown (click to expand)</b></summary>
+<br/>
+
+| Skill | Level |
+|---|---|
+| React.js / Next.js | ![90%](https://progress-bar.dev/90/?color=6366f1) |
+| Node.js / Express | ![88%](https://progress-bar.dev/88/?color=6366f1) |
+| Java / Spring Boot | ![80%](https://progress-bar.dev/80/?color=6366f1) |
+| PostgreSQL / MongoDB | ![85%](https://progress-bar.dev/85/?color=6366f1) |
+| Redis / Caching | ![80%](https://progress-bar.dev/80/?color=6366f1) |
+| AWS / Docker / CI-CD | ![75%](https://progress-bar.dev/75/?color=6366f1) |
+| GenAI (ComfyUI, n8n, SD) | ![70%](https://progress-bar.dev/70/?color=6366f1) |
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🏗️ Featured Projects
 
@@ -136,18 +166,57 @@ Messaging system for template approvals, bulk campaigns, scheduling & delivery a
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 💼 Experience
 
 ```text
 2021 ─────────────────────────────────────────────────────► Present
-
-  Jan 2021 ── Aug 2021          Sep 2021 ──────────────────► Now
-  Web Developer                 Software Developer
-  360 Digital Idea, Delhi       Masterstroke Digiinnovators (Videostori.ai), Noida
-  • Responsive builds           • Architected multi-tenant SaaS video platform
-  • SEO + performance           • Microservices: Spring Boot + Node.js + PostgreSQL + Redis
-  • 90% test coverage           • Built Kikdrama, Ad SDK, WhatsApp system, GenAI tools
 ```
+
+<details open>
+<summary><b>🟢 Software Developer — Masterstroke Digiinnovators Pvt Ltd (Videostori.ai)</b> · Noida · Sep 2021 – Present</summary>
+<br/>
+
+- Architected the **Videostori.ai** SaaS platform (React, Node.js, PostgreSQL, MongoDB, AWS) — 95% customer satisfaction, 500+ concurrent users
+- Built an **Interactive Video Player** with hotspots, timelines & CTAs — **+40% interaction**
+- Designed a **microservices backend** (Spring Boot + Node.js, Redis, JWT/RBAC) — **+30% engagement, +20% retention**
+- Built a **Google Ad SDK** for outstream/instream ads — **+20% ad engagement**
+- Shipped a **WhatsApp Business messaging system** — bulk campaigns, template approvals, analytics
+- Delivered a multi-tenant **Astrologer Consultation platform** with RBAC + OWASP-compliant APIs
+- Built **Kikdrama** — drama streaming platform (Spring Boot + Next.js + PostgreSQL) with zero-downtime CI/CD
+
+</details>
+
+<details>
+<summary><b>⚪ Web Developer — 360 Digital Idea</b> · Delhi · Jan 2021 – Aug 2021</summary>
+<br/>
+
+- Built responsive, cross-device web pages — **+40% user engagement**
+- Optimized page speed & SEO — boosted organic traffic across client sites
+- Implemented TDD with Jest & Mocha — **90% unit-test coverage**
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/inderlab/inderlab/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+</div>
+
+> 🔧 One-time setup: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your repo — it auto-generates this animated snake from your real contribution graph and pushes it to the `output` branch. Ask me and I'll write the workflow file for you.
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=inderlab&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
 <br/>
 
@@ -168,6 +237,8 @@ Messaging system for template approvals, bulk campaigns, scheduling & delivery a
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📫 Let's Connect
 
