@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20There,%20I'm%20Inderjeet%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20Engineer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20There,%20I'm%20Inderjeet%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/inderjeet-kmr">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -28,7 +28,7 @@
 
 ```javascript
 const inderjeet = {
-  role: "Full-Stack Developer & AI Integration Engineer",
+  role: "Full-Stack Developer",
   experience: "4+ years",
   location: "Delhi, India 🇮🇳",
   currentlyAt: "Masterstroke Digiinnovators Pvt Ltd (Videostori.ai)",
