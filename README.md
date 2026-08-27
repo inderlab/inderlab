@@ -34,12 +34,10 @@ const inderjeet = {
   experience: "4+ years",
   location: "Delhi, India 🇮🇳",
   currentlyAt: "Masterstroke Digiinnovators Pvt Ltd (Videostori.ai)",
-  founder: false,
-  earlyEngineer: true,
-  education: "B.Tech CS @ AKTU (part-time, while working full-time)",
+  foundingEngineer: true,
+  education: "B.Tech CS @ AKTU",
   domains: ["Video Streaming", "SaaS", "E-commerce", "GenAI", "EV Charging"],
   currentFocus: "Multi-tenant SaaS architecture + GenAI pipelines",
-  funFact: "Ships production code by day, finishes semester exams by night 🌙",
 };
 ```
 
@@ -47,7 +45,6 @@ const inderjeet = {
 - 🎬 Built **Kikdrama.com** — a full-stack drama streaming platform (Spring Boot + Next.js + React Native)
 - 🤖 Design GenAI pipelines with **Stable Diffusion, LoRA, ComfyUI & n8n** for text-to-image/video workflows
 - 📈 Delivered features that boosted engagement **20–40%** across ad SDKs, video players & messaging systems
-- 🎓 Currently pursuing my B.Tech in Computer Science — full-time engineer, part-time student
 
 <details>
 <summary>💬 <b>Random Dev Quote</b> (click to reveal)</summary>
@@ -82,24 +79,6 @@ const inderjeet = {
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,jira" />
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>📈 Proficiency Breakdown (click to expand)</b></summary>
-<br/>
-
-| Skill | Level |
-|---|---|
-| React.js / Next.js | ![90%](https://progress-bar.dev/90/?color=6366f1) |
-| Node.js / Express | ![88%](https://progress-bar.dev/88/?color=6366f1) |
-| Java / Spring Boot | ![80%](https://progress-bar.dev/80/?color=6366f1) |
-| PostgreSQL / MongoDB | ![85%](https://progress-bar.dev/85/?color=6366f1) |
-| Redis / Caching | ![80%](https://progress-bar.dev/80/?color=6366f1) |
-| AWS / Docker / CI-CD | ![75%](https://progress-bar.dev/75/?color=6366f1) |
-| GenAI (ComfyUI, n8n, SD) | ![70%](https://progress-bar.dev/70/?color=6366f1) |
-
-</details>
 
 <br/>
 
@@ -189,7 +168,7 @@ Messaging system for template approvals, bulk campaigns, scheduling & delivery a
 </details>
 
 <details>
-<summary><b>⚪ Web Developer — 360 Digital Idea</b> · Delhi · Jan 2021 – Aug 2021</summary>
+<summary><b>🟢 Web Developer — 360 Digital Idea</b> · Delhi · Jan 2021 – Aug 2021</summary>
 <br/>
 
 - Built responsive, cross-device web pages — **+40% user engagement**
@@ -202,39 +181,54 @@ Messaging system for template approvals, bulk campaigns, scheduling & delivery a
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🐍 Contribution Snake
+## 🎯 Impact Highlights
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/inderlab/inderlab/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-</div>
 
-> 🔧 One-time setup: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your repo — it auto-generates this animated snake from your real contribution graph and pushes it to the `output` branch. Ask me and I'll write the workflow file for you.
+<img src="https://img.shields.io/badge/500+-Concurrent%20Users%20Served-6366f1?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/95%25-Customer%20Satisfaction-06b6d4?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/4+-Years%20Experience-6366f1?style=for-the-badge&labelColor=1a1b27"/>
 
-<br/>
+<img src="https://img.shields.io/badge/%2B40%25-User%20Interaction%20Boost-06b6d4?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/%2B30%25-Platform%20Engagement-6366f1?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/%2B20%25-User%20Retention-06b6d4?style=for-the-badge&labelColor=1a1b27"/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=inderlab&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=inderlab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=inderlab&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=inderlab&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inderlab&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://img.shields.io/badge/Zero--Downtime-CI%2FCD%20Releases-6366f1?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/90%25-Unit%20Test%20Coverage-06b6d4?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Founding-Engineer%20@%20Videostori.ai-6366f1?style=for-the-badge&labelColor=1a1b27"/>
 
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🏗️
+**Multi-Tenant SaaS**
+<br/>
+Architected Videostori.ai end-to-end — React, Node.js, PostgreSQL, MongoDB, AWS
+
+</td>
+<td align="center" width="33%">
+
+### 🎬
+**Production Streaming**
+<br/>
+Shipped Kikdrama with zero-downtime GitHub Actions CI/CD pipelines
+
+</td>
+<td align="center" width="33%">
+
+### 🤖
+**GenAI Pipelines**
+<br/>
+Built text-to-image/video tooling with Stable Diffusion, LoRA & ComfyUI
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -256,7 +250,7 @@ Messaging system for template approvals, bulk campaigns, scheduling & delivery a
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=inderlab&style=flat-square&color=6366f1" alt="Profile views"/>
+[![](https://komarev.com/ghpvc/?username=inderlab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
