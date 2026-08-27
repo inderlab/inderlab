@@ -180,14 +180,7 @@ Messaging system for template approvals, bulk campaigns, scheduling & delivery a
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=inderlab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=inderlab&theme=dark&hide_border=false)<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=inderlab&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🎯 Impact Highlights
 
 <div align="center">
